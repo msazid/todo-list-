@@ -1,0 +1,11 @@
+.homeBg{
+    background-image: url('../../assets/images/todoBanner.jpg');
+    background-position:center ;
+    background-size:cover;
+    min-height: 94.5vh;
+    background-repeat:no-repeat ;
+    background-color: rgba(0,0,0,0.5);
+    background-blend-mode:overlay ;
+    display: flex;
+    justify-content: center;
+}
